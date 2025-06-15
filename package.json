@@ -1,6 +1,6 @@
 {
   "name": "program-runner",
-  "version": "1.0.1",
+  "version": "v1.1.0",
   "bin": {
     "open": "./bin/script.js"
   },
