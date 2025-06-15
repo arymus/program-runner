@@ -25,7 +25,7 @@ try {
     if (args["--help"]) {
 
         // Log the instructions
-	    console.log("open roblox: Opens Roblox\nopen konsole: Opens Konsole\nopen kitty: Opens Kitty\nopen spotify: Opens Spotify\nopen studio: Opens Roblox Studio--help / -h: Show this message\n--version / -v: Show the version");
+	    console.log("open roblox: Opens Roblox\nopen konsole: Opens Konsole\nopen kitty: Opens Kitty\nopen spotify: Opens Spotify\nopen studio: Opens Roblox Studio\n--help / -h: Show this message\n--version / -v: Show the version");
 
     // If the argument passed with the command is "--version" or its shorthand "-v"
     } else if (args["--version"]) {
