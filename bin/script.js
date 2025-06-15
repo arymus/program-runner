@@ -2,7 +2,7 @@
 /* ^ Allows us to run this file without the node command
  * by passing the node interpreter as the first argument in the terminal
  * so that the second argument (the one we input) is the file name
- * (in this case an alias for the file, which would be notebook)
+ * (in this case an alias for the file, which would be open)
  * 
  * https://en.wikipedia.org/wiki/Shebang_(Unix)
  */
